@@ -1,0 +1,11 @@
+{
+  "name": "com.conjureos.unitylibrary",
+  "version": "1.0.1",
+  "displayName": "ConjureOS Unity Library",
+  "description": "Custom library that contains many tools to develop and deploy your game on a Conjure arcade.",
+  "unity": "2022.3.9f1",
+  "author": {
+    "name": "Vincent Gingras, William Lebel",
+    "url": "https://conjure.etsmtl.ca/"
+  }
+}
