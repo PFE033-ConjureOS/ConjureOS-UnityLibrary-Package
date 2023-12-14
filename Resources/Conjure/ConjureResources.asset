@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02ea37123864fcdabacc23e4dd5fa0f, type: 3}
+  m_Name: ConjureResources
+  m_EditorClassIdentifier: 
+  conjureMenuPrefab: {fileID: 7800462447614134611, guid: 330df77eacd35a94d87981a520d2c97e, type: 3}
