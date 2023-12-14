@@ -7,5 +7,12 @@
   "author": {
     "name": "Vincent Gingras, William Lebel",
     "url": "https://conjure.etsmtl.ca/"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Conjure Arcade Game",
+      "description": "Example of a game using the various features offered by the ConjureOS UnityLibrary.",
+      "path": "Samples/ConjureArcadeGame"
+    }
+  ]
 }
