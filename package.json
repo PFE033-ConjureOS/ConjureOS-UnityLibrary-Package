@@ -1,7 +1,7 @@
 {
   "name": "com.conjureos.unitylibrary",
   "version": "1.0.1",
-  "displayName": "ConjureOS Unity Library",
+  "displayName": "ConjureOS UnityLibrary",
   "description": "Custom library that contains many tools to develop and deploy your game on a Conjure arcade.",
   "unity": "2022.3",
   "author": {
